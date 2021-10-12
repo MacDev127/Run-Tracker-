@@ -135,6 +135,15 @@ progress h3 {
     background: #1A2F38;
 }
 
+footer {
+    padding-top: 20px;
+}
+
+footer p {
+    text-align: center;
+    font-size: 12px;
+}
+
 
 /* -----------------------------Media queries------------------------ */
 
